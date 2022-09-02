@@ -36,6 +36,7 @@
     --sn-stylekit-passive-color-5: rgb(64,64,64);
     --sn-stylekit-passive-color-3: rgb(64,64,64);
     --sn-stylekit-passive-color-2: rgb(128,128,128);*/
+    --navigation-item-selected-background-color: #3f3f46;
     --sn-stylekit-neutral-color: #71717a;
     --sn-stylekit-neutral-contrast-color: #FAFBFF;
     --sn-stylekit-info-color: #0C84FE;
