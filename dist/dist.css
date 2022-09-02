@@ -1,7 +1,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    --sn-stylekit-neutral-color: #6A696F;
+/*    --sn-stylekit-neutral-color: #6A696F;
     --sn-stylekit-neutral-contrast-color: #FAFBFF;
     --sn-stylekit-info-color: #0C84FE;
     --sn-stylekit-info-contrast-color: #FAFBFF;
@@ -35,6 +35,47 @@
     --navigation-item-selected-background-color: rgb(64,64,64);
     --sn-stylekit-passive-color-5: rgb(64,64,64);
     --sn-stylekit-passive-color-3: rgb(64,64,64);
-    --sn-stylekit-passive-color-2: rgb(128,128,128);
+    --sn-stylekit-passive-color-2: rgb(128,128,128);*/
+    --sn-stylekit-neutral-color: #71717a;
+    --sn-stylekit-neutral-contrast-color: #FAFBFF;
+    --sn-stylekit-info-color: #0C84FE;
+    --sn-stylekit-info-contrast-color: #FAFBFF;
+    --sn-stylekit-success-color: #22c55e;
+    --sn-stylekit-success-contrast-color: #FAFBFF;
+    --sn-stylekit-warning-color: #f59e0b;
+    --sn-stylekit-warning-contrast-color: #FAFBFF;
+    --sn-stylekit-danger-color: #ef4444;
+    --sn-stylekit-danger-contrast-color: #FAFBFF;
+    --sn-stylekit-shadow-color: #71717a;
+    --sn-stylekit-background-color: rgb(0,0,0);
+    --sn-stylekit-border-color: #27272a;
+    --sn-stylekit-foreground-color: #e4e4e7;
+    --sn-stylekit-contrast-background-color: #27272a;
+    --sn-stylekit-contrast-foreground-color: #e4e4e7;
+    --sn-stylekit-secondary-background-color: #18181b;
+    --sn-stylekit-secondary-foreground-color: #f4f4f5;
+    --sn-stylekit-secondary-border-color: #71717a;
+    --sn-stylekit-secondary-contrast-background-color: #3f3f46;
+    --sn-stylekit-paragraph-text-color: #a1a1aa;
+    --sn-stylekit-passive-color-0: #d4d4d8;
+    --sn-stylekit-passive-color-1: #a1a1aa;
+    --sn-stylekit-passive-color-2: #71717a;
+    --sn-stylekit-passive-color-3: #52525b;
+    --sn-stylekit-passive-color-4: #3f3f46;
+    --sn-stylekit-passive-color-5: #27272a;
+    --sn-stylekit-passive-color-6: #18181b;
+  }
+  .shadow-main {
+      box-shadow: 0 20px 25px -5px rgb(255 255 255 / 0.1), 0 8px 10px -6px rgb(255 255 255 / 0.1);
+      border: 1px solid #18181b;
+  }
+  .hover\:underline svg path {
+      fill: #71717a;
+  }
+  [data-reach-listbox-popover]:focus-within {
+      box-shadow: 0 20px 25px -5px rgb(255 255 255 / 0.1), 0 8px 10px -6px rgb(255 255 255 / 0.1);
+  }
+  .text-info.text-info-contrast {
+      color: #fff !important;
   }
 }
