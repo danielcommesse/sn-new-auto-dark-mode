@@ -1,0 +1,16 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "com.shaamba.sn",
+  "name": "New auto Dark Mode",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.1",
+  "description": "New auto dark mode theme for Standard Notes.",
+  "url": "https://cdn.shaamba.com/sn-new-auto-dark-mode/1.0.1/dist.css",
+  "latest_url": "https://listed.to/p/kDheE4RHtZ",
+  "download_url": "https://github.com/danielcommesse/sn-new-auto-dark-mode/archive/refs/tags/1.0.1.zip",
+  "marketing_url": "https://github.com/danielcommesse/sn-new-auto-dark-mode"
+}

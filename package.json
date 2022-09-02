@@ -1,0 +1,19 @@
+{
+  "name": "sn-auto-dark-mode",
+  "version": "1.0.1",
+  "description": "New auto dark mode theme for Standard Notes.",
+  "main": "dist/dist.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcommesse/sn-auto-dark-mode.git"
+  },
+  "author": "Daniel Commesse",
+  "license": "ISC",
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "bugs": {
+    "url": "https://github.com/danielcommesse/sn-new-auto-dark-mode/issues"
+  },
+  "homepage": "https://github.com/danielcommesse/sn-new-auto-dark-mode#readme"
+}
