@@ -7,10 +7,10 @@ metatype: json
   "name": "New auto Dark Mode",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "New auto dark mode theme for Standard Notes.",
-  "url": "https://cdn.shaamba.com/sn-new-auto-dark-mode/v1.0.2/dist.css",
+  "url": "https://cdn.shaamba.com/sn-new-auto-dark-mode/v1.0.3/dist.css",
   "latest_url": "https://listed.to/p/kDheE4RHtZ",
-  "download_url": "https://github.com/danielcommesse/sn-new-auto-dark-mode/archive/refs/tags/v1.0.2.zip",
+  "download_url": "https://github.com/danielcommesse/sn-new-auto-dark-mode/archive/refs/tags/v1.0.3.zip",
   "marketing_url": "https://github.com/danielcommesse/sn-new-auto-dark-mode"
 }

@@ -1,6 +1,6 @@
 {
   "name": "sn-auto-dark-mode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "New auto dark mode theme for Standard Notes.",
   "main": "dist/dist.css",
   "repository": {
